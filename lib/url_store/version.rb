@@ -1,3 +1,3 @@
 class UrlStore
-  VERSION = Version = '0.3.5'
+  VERSION = Version = '0.3.6'
 end
